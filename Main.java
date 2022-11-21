@@ -4,7 +4,7 @@ public class Main {
 
     static int x = 16;              //Initiating static variable
     static int y;                   //Initiating method
-    static void func()         //Initiating block
+    static void func()              //Initiating block
     {
         System.out.println("x = " + x);
         System.out.println("y = " + y);
