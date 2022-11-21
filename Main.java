@@ -1,4 +1,5 @@
 //1.2 Write a Java program to display the default value of all primitive data types of Java.
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Default values are.....");
